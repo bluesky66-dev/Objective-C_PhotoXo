@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "取消";
+"TXT_OK"            = "行";
+"TXT_Select"        = "选择";
+"TXT_DEST"          = "选择上载目的地。";
+"TXT_LOADING"       = "载入中...";
+"TXT_DBERROR"       = "错误加载文件夹内容";
+"TXT_NOFOLDERS"     = "不包含文件夹";
+"TXT_PhotoLibrary"  = "照片库";
+"TXT_Camera"        = "相机";
+"TXT_Saved"         = "保存成功";
+"TXT_Buy"           = "购买";
+"TXT_Restore"       = "恢复";
+"TXT_Buy_Info"      = "购买PhotoXo专业无水印";
+"TXT_Buy_Success"   = "采购完成的成功地";
+"TXT_Restored"       = "采购成功地恢复了";
+"CLImageEditor_Text"            = "文本输入";
+"CLImageEditor_DateLocation"    = "快照的日期和地点";
+"TXT_Select_Info"               = "请选择";
+"TXT_Support"                   = "支撑";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ 价格";
+"TXT_MoreApps"                  = "更多应用程序";

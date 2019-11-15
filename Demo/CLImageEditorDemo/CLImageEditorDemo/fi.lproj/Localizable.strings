@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Peruuttaa";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Valita";
+"TXT_DEST"          = "Valitse kohde kuvat.";
+"TXT_LOADING"       = "Loading...";
+"TXT_DBERROR"       = "Virhe ladattaessa kansion sisallon";
+"TXT_NOFOLDERS"     = "Ei sisalla kansioita";
+"TXT_PhotoLibrary"  = "Kuvapankki";
+"TXT_Camera"        = "Kamera";
+"TXT_Saved"         = "tallennettu";
+"TXT_Buy"           = "Osta";
+"TXT_Restore"       = "Restore";
+"TXT_Buy_Info"      = "Osta PhotoXo Pro ilman vesileimaa";
+"TXT_Buy_Success"   = "Osto on suoritettu onnistuneesti";
+"TXT_Restored"       = "Osto on palautettu onnistuneesti";
+"CLImageEditor_Text"            = "Tekstinsyöttö";
+"CLImageEditor_DateLocation"    = "Päivämäärä ja paikka tilannekuvan";
+"TXT_Select_Info"               = "Ole hyvä ja valitse";
+"TXT_Support"                   = "Tuki";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Hinta";
+"TXT_MoreApps"                  = "Lisää sovelluksia";

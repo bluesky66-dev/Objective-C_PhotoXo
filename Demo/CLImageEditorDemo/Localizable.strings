@@ -1,0 +1,126 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+//Tools / Editor
+"CLImageEditor_BackBtnTitle" = "Abbrechen";
+"CLImageEditor_DefaultTitle" = "Bearbeiten";
+"CLImageEditor_OKBtnTitle" = "Fertig";
+"CLMirrorTool_DefaultTitle" = "Spiegel";
+"CLAdjustmentTool_DefaultTitle" = "Beleuchtung";
+"CLAdjustmentTool2_DefaultTitle" = "Farbe";
+"CLEnhanceTool_DefaultTitle" = "Verbessern";
+"CLKaleidoscopeTool_DefaultTitle" = "Kaleidoskop";
+"CLGradientTool_DefaultTitle" = "Farbverlauf";
+"CLSplashTool_DefaultTitle" =   "Einfärben";
+"CLColorClampTool_DefaultTitle" = "Color Clamp";
+"CLClippingTool_DefaultTitle" = "Zuschneiden";
+"CLClippingTool_ItemMenuCustom" = "Custom";
+"CLDrawTool_DefaultTitle" = "Zeichnen";
+"CLEffectTool_DefaultTitle" = "Effekte";
+"CLFilterTool_DefaultTitle" = "Filter";
+"CLStickerTool_DefaultTitle" = "Aufkleber";
+"CLResizeTool_DefaultTitle" = "Größe ändern";
+"CLResizeTool_InfoPanelTextNewSize" = "Neue Bild Größe:";
+"CLResizeTool_InfoPanelTextOriginalSize" = "Original Bild Größe:";
+"CLRotateTool_DefaultTitle" = "Drehen";
+"CLRotateTool_MenuItemFlipTitle1" = " ";
+"CLRotateTool_MenuItemFlipTitle2" = " ";
+"CLRotateTool_MenuItemRotateTitle" = " ";
+"CLReflectionTool_DefaultTitle" = "Flares";
+"CLEmoticonTool_DefaultTitle" = "Emoticons 1";
+"CLEmoticonTool2_DefaultTitle" = "Emoticons 2";
+"CLEmoticonTool3_DefaultTitle" = "Emoticons 3";
+"CLTextTool_DefaultTitle" = "Text";
+"CLTextTool_MenuItemAlignCenter" = " ";
+"CLTextTool_MenuItemAlignLeft" = " ";
+"CLTextTool_MenuItemAlignRight" = " ";
+"CLTextTool_MenuItemColor" = "Farbe";
+"CLTextTool_MenuItemFont" = "Schrift";
+"CLTextTool_MenuItemNew" = "Neu";
+"CLToneCurveTool_DefaultTitle" = "Tonkurve";
+"CL3DTool_DefaultTitle" = "Anaglyph";
+
+//Effects
+"CLEffectBase_DefaultTitle" = "Ohne";
+"CLHalftoneCMYKEffect_DefaultTitle" = "CMYK Halbton";
+"CLRippleEffect_DefaultTitle" = "Welle";
+"CLDrosteEffect_DefaultTitle" = "Spirale";
+"CLSplashEffect_DefaultTitle" = "Strahlung";
+"CLMonoColorEffect_DefaultTitle" = "Mono Farbe";
+"CLPointillizeEffect_DefaultTitle" = "Sprenkeln";
+"CLHexagonalEffect_DefaultTitle" = "Hexagonal";
+"CLEdgeWorkEffect_DefaultTitle" = "Kantenbearbeitung";
+"CLEdgeColorEffect_DefaultTitle" = "Farbränder";
+"CLCrystallizeEffect_DefaultTitle" = "Kristallisieren";
+"CLComicEffect_DefaultTitle" = "Comic";
+"CLWaterEffect_DefaultTitle" = "Wasser";
+"CLSphereEffect_DefaultTitle" = "Kugel";
+"CLSphereGlasEffect_DefaultTitle" = "Glaskugel";
+"CLPolarEffect_DefaultTitle" = "Polar";
+"CLBloomEffect_DefaultTitle" = "Schimmer";
+"CLBlurEffect_DefaultTitle" = "Fokus";
+"CLGloomEffect_DefaultTitle" = "Düster";
+"CLHazeEffect_DefaultTitle" = "Nebel";
+"CLHighlightSadowEffect_DefaultTitle" = "Glanz";
+"CLHueEffect_DefaultTitle" = "Färben";
+"CLPixellateEffect_DefaultTitle" = "Pixel";
+"CLPosterizeEffect_DefaultTitle" = "Tontrennung";
+"CLBlurEffect_MenuItemBand" = "Rechteck";
+"CLBlurEffect_MenuItemCircle" = "Kreis";
+"CLSpotEffect_DefaultTitle" = "Spot";
+"CLHoleEffect_DefaultTitle" = "Loch";
+"CLSwirlEffect_DefaultTitle" = "Strudel";
+"CLBulgeEffect_DefaultTitle" = "Beule";
+"CLPinchEffect_DefaultTitle" = "Quetchen";
+"CLStretchEffect_DefaultTitle" = "Stretchen";
+"CLZoomBlurEffect_DefaultTitle" = "Unschärfe";
+"CLSharpenEffect_DefaultTitle" = "Schärfen";
+"CLUnsharpMaskEffect_DefaultTitle" = "Maskieren";
+"CLOilEffect_DefaultTitle" = "Öl";
+"CLEmbossEffect_DefaultTitle" = "Prägen";
+"CLColorDotsEffect_DefaultTitle" = "Farbpunkte";
+"CLToonHardEffect_DefaultTitle" = "Toon hart";
+"CLToonEffect_DefaultTitle" = "Toon";
+"CLSketchHardEffect_DefaultTitle" = "Skizze hart";
+"CLSketchEffect_DefaultTitle" = "Skizze";
+"CLDotEffect_DefaultTitle" = "Punkte";
+"CLHalftoneEffect_DefaultTitle" = "Halbton";
+"CLHatchEffect_DefaultTitle" = "Schraffur";
+"CLCrossHatchEffect_DefaultTitle" = "Kreuzschraffur";
+"CLOpacityEffect_DefaultTitle" = "Deckkraft";
+"CLBlackWhiteEffect_DefaultTitle" = "S/W";
+"CLContoursEffect_DefaultTitle" = "Konturen";
+"CLEdgeEffect_DefaultTitle" = "Ränder";
+"CLBlurEffect_MenuItemNormal" = "Komplett";
+
+//Enhance
+"CLDefaultEmptyEnhance_DefaultTitle" = "Ohne";
+"CLDefaultSceneryEnhance_DefaultTitle" = "Landschaft";
+"CLDefaultNightEnhance_DefaultTitle" = "Nacht";
+"CLDefaultAutoAdjustEnhance_DefaultTitle" = "Auto Anpassung";
+"CLDefaultFoodEnhance_DefaultTitle" = "Essen";
+"CLDefaultRedEyeEnhance_DefaultTitle" = "Rote Augen";
+"CLDefaultPortraitEnhance_DefaultTitle" = "Portrait";
+"CLDefaultHighDefEnhance_DefaultTitle" = "High Def";
+
+//Kaleidoscope
+"CLKaleidoscopeBase_DefaultTitle" = "Ohne";
+"CLPerspectiveKaleidoscope_DefaultTitle" = "Perspektive";
+"CLTwelvefoldTileKaleidoscope_DefaultTitle" = "12x spiegeln";
+"CLSixtfoldRotatedTileKaleidoscope_DefaultTitle" = "6x drehen";
+"CLSixtfoldReflectedTileKaleidoscope_DefaultTitle" = "6x spiegeln";
+"CLParallelogramTileKaleidoscope_DefaultTitle" = "Parallelogram Kachel";
+"CLFourfoldGlideTileKaleidoscope_DefaultTitle" = "4x gleiten";
+"CLFourfoldTransTileKaleidoscope_DefaultTitle" = "4x verschieben";
+"CLFourfoldRotTileKaleidoscope_DefaultTitle" = "4x drehen";
+"CLFourfoldTileKaleidoscope_DefaultTitle" = "4x spiegeln";
+"CLEightfoldTileKaleidoscope_DefaultTitle" = "8x spiegeln";
+"CLOpTileKaleidoscope_DefaultTitle" = "Op Art";
+"CLTriangleTileKaleidoscope_DefaultTitle" = "△ Kachel";
+"CLKaleidoscope2Kaleidoscope_DefaultTitle" = "Standard";
+"CLKaleidoscopeKaleidoscope_DefaultTitle" = "Dreieck";

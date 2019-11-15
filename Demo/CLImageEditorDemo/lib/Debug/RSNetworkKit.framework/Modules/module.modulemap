@@ -1,0 +1,6 @@
+framework module RSNetworkKit {
+  umbrella header "RSNetworkKit.h"
+
+  export *
+  module * { export * }
+}

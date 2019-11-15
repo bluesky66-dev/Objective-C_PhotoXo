@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Anula";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Selecta";
+"TXT_DEST"          = "Alegeți o destinație pentru imagini încărcate.";
+"TXT_LOADING"       = "Încărcare...";
+"TXT_DBERROR"       = "Conținut al dosarului Eroare la încărcarea";
+"TXT_NOFOLDERS"     = "Nu conține directoarele";
+"TXT_PhotoLibrary"  = "Foto bibliotecă";
+"TXT_Camera"        = "Foto aparat";
+"TXT_Saved"         = "Salvate cu succes";
+"TXT_Buy"           = "Cumparare";
+"TXT_Restore"       = "Restabiliți";
+"TXT_Buy_Info"      = "Cumparare PhotoXo Pro fără filigran";
+"TXT_Buy_Success"   = "Cumpărare încheiat cu succes";
+"TXT_Restored"       = "Cumpărare restaurat cu succes";
+"CLImageEditor_Text"            = "Text";
+"CLImageEditor_DateLocation"    = "Data și Locul instantaneu";
+"TXT_Select_Info"               = "Vă rugăm să alegeți";
+"TXT_Support"                   = "Sprijin";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Rată";
+"TXT_MoreApps"                  = "Mai aplicații";

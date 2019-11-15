@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Ματαίωση";
+"TXT_OK"            = "Εντάξει";
+"TXT_Select"        = "Επιλέγω";
+"TXT_DEST"          = "Επιλέξτε έναν προορισμό για προσθήκες.";
+"TXT_LOADING"       = "Φόρτωση...";
+"TXT_DBERROR"       = "Τα περιεχόμενα του φακέλου Σφάλμα κατά τη φόρτωση";
+"TXT_NOFOLDERS"     = "Δεν περιέχει φακέλους";
+"TXT_PhotoLibrary"  = "Βιβλιοθήκη Φωτογραφιών";
+"TXT_Camera"        = "Κάμερα";
+"TXT_Saved"         = "αποθηκεύτηκε με επιτυχία";
+"TXT_Buy"           = "Αγορά";
+"TXT_Restore"       = "Επαναφορά";
+"TXT_Buy_Info"      = "BΑγορά PhotoXo Pro χωρίς υδατογράφημα";
+"TXT_Buy_Success"   = "Αγορά ολοκληρωθεί επιτυχώς";
+"TXT_Restored"       = "Αγορά αποκατασταθεί επιτυχώς";
+"CLImageEditor_Text"            = "εισαγωγή κειμένου";
+"CLImageEditor_DateLocation"    = "Ημερομηνία & Τόπος του στιγμιότυπο";
+"TXT_Select_Info"               = "Παρακαλώ επιλέξτε";
+"TXT_Support"                   = "Υποστήριξη";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Τιμή";
+"TXT_MoreApps"                  = "περισσότερα Εφαρμογών";

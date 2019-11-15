@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Cancelar";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Seleccionar";
+"TXT_DEST"          = "Elija un destino para los archivos subidos.";
+"TXT_LOADING"       = "Cargando...";
+"TXT_DBERROR"       = "Contenido de la carpeta Error al cargar";
+"TXT_NOFOLDERS"     = "No contiene carpetas";
+"TXT_PhotoLibrary"  = "Fototeca";
+"TXT_Camera"        = "Camara fotografica";
+"TXT_Saved"         = "Guardado exitosamente";
+"TXT_Buy"           = "Comprar";
+"TXT_Restore"       = "Restore";
+"TXT_Buy_Info"      = "Comprar PhotoXo Pro sin marca de agua";
+"TXT_Buy_Success"   = "Compra se completa con éxito";
+"TXT_Restored"      = "Compra se restaura con éxito";
+"CLImageEditor_Text"            = "Entrada de texto";
+"CLImageEditor_DateLocation"    = "Fecha y lugar de la instantánea";
+"TXT_Select_Info"               = "Por favor, elija";
+"TXT_Support"                   = "Soporte";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Tasa";
+"TXT_MoreApps"                  = "Más Aplicaciones";

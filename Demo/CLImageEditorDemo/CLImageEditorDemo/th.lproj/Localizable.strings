@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "ยกเลิก";
+"TXT_OK"            = "ตกลง";
+"TXT_Select"        = "เลือก";
+"TXT_DEST"          = "เลือกปลายทางสำหรับการอัพโหลด";
+"TXT_LOADING"       = "กำลังโหลด ...";
+"TXT_DBERROR"       = "เกิดข้อผิดพลาดกำลังโหลดเนื้อหาของโฟลเดอร์";
+"TXT_NOFOLDERS"     = "มีโฟลเดอร์ไม่มี";
+"TXT_PhotoLibrary"  = "ภาพห้องสมุด";
+"TXT_Camera"        = "กล้อง";
+"TXT_Saved"         = "การบันทึกเรียบร้อย";
+"TXT_Buy"           = "ซื้อ";
+"TXT_Restore"       = "ฟื้นฟู";
+"TXT_Buy_Info"      = "ซื้อ PhotoXo Pro ไม่มีลายน้ำ";
+"TXT_Buy_Success"   = "การจัดซื้อประสบความสำเร็จใน";
+"TXT_Restored"       = "การจัดซื้อการบูรณะอย่างประสบความสำเร็จใน";
+"CLImageEditor_Text"            = "ป้อนข้อความ";
+"CLImageEditor_DateLocation"    = "วันที่และสถานที่ตั้งภาพถ่าย";
+"TXT_Select_Info"               = "โปรดเลือก";
+"TXT_Support"                   = "การสนับสนุน";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ อัตรา";
+"TXT_MoreApps"                  = "การประยุกต์ใช้อื่น ๆ";

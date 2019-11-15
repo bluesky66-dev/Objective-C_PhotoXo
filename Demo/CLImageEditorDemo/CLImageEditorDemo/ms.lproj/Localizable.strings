@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Batal";
+"TXT_OK"            = "Okay";
+"TXT_Select"        = "Memilih";
+"TXT_DEST"          = "Memilih destinasi untuk muat naik.";
+"TXT_LOADING"       = "Loading...";
+"TXT_DBERROR"       = "Ralat memuatkan kandungan folder";
+"TXT_NOFOLDERS"     = "Tidak mengandungi folder";
+"TXT_PhotoLibrary"  = "Pustaka foto";
+"TXT_Camera"        = "Kamera";
+"TXT_Saved"         = "Berjaya disimpan";
+"TXT_Buy"           = "Beli";
+"TXT_Restore"       = "Simpan";
+"TXT_Buy_Info"      = "Beli PhotoXo Pro tanpa watermark";
+"TXT_Buy_Success"   = "Pembelian siap berjaya";
+"TXT_Restored"       = "Pembelian dipulihkan berjaya";
+"CLImageEditor_Text"            = "Masukan teks";
+"CLImageEditor_DateLocation"    = "Tarikh & Tempat imej";
+"TXT_Select_Info"               = "Sila memilih";
+"TXT_Support"                   = "Sokongan";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Kadar";
+"TXT_MoreApps"                  = "Lebih Permohonan";

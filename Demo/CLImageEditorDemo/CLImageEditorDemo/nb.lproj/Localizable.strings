@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Kansellere";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Velge";
+"TXT_DEST"          = "Velg en destinasjon for opplasting.";
+"TXT_LOADING"       = "Laster inn ...";
+"TXT_DBERROR"       = "Feil ved lasting av mappeinnhold";
+"TXT_NOFOLDERS"     = "Inneholder ingen mapper";
+"TXT_PhotoLibrary"  = "Fotobibliotek";
+"TXT_Camera"        = "Kamera";
+"TXT_Saved"         = "Lagringen var vellykket";
+"TXT_Buy"           = "Kjøpe";
+"TXT_Restore"       = "Restore";
+"TXT_Buy_Info"      = "Kjøpe PhotoXo Pro uten vannmerke";
+"TXT_Buy_Success"   = "Kjøpe gjennomført med suksess";
+"TXT_Restored"       = "Kjøpe restaurert med suksess";
+"CLImageEditor_Text"            = "Tekst";
+"CLImageEditor_DateLocation"    = "Dato og sted for øyeblikksbildet";
+"TXT_Select_Info"               = "Vennligst velg";
+"TXT_Support"                   = "Support";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Ranger";
+"TXT_MoreApps"                  = "Flere Apps";

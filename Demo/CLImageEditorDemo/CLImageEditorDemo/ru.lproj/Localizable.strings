@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Отмена";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Выбрать";
+"TXT_DEST"          = "Выберите папки назначения.";
+"TXT_LOADING"       = "Загрузка ...";
+"TXT_DBERROR"       = "Ошибка загрузки содержимого папки";
+"TXT_NOFOLDERS"     = "Не содержит папки";
+"TXT_PhotoLibrary"  = "фОтОАЛьбОм";
+"TXT_Camera"        = "камера";
+"TXT_Saved"         = "Сохраненные успешно";
+"TXT_Buy"           = "Купить";
+"TXT_Restore"       = "Bосстановления";
+"TXT_Buy_Info"      = "Купить PhotoXo PO без водяных знаков";
+"TXT_Buy_Success"   = "Покупка успешно завершена";
+"TXT_Restored"       = "Покупка восстановить успешно";
+"CLImageEditor_Text"            = "Tекст";
+"CLImageEditor_DateLocation"    = "Дата и место снимка";
+"TXT_Select_Info"               = "Пожалуйста, выберите";
+"TXT_Support"                   = "Поддержка";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Cтавка";
+"TXT_MoreApps"                  = "Другие приложения";

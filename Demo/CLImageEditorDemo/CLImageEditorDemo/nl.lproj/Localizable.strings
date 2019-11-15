@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Annuleer";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Selecteer";
+"TXT_DEST"          = "Kies een bestemming voor uploads.";
+"TXT_LOADING"       = "Laden...";
+"TXT_DBERROR"       = "Fout bij het laden Mapinhoud";
+"TXT_NOFOLDERS"     = "Bevat geen mappen";
+"TXT_PhotoLibrary"  = "Photo Library";
+"TXT_Camera"        = "Camera";
+"TXT_Saved"         = "Succesvol opgeslagen";
+"TXT_Buy"           = "Kopen";
+"TXT_Restore"       = "Restore";
+"TXT_Buy_Info"      = "Kopen PhotoXo Pro zonder watermerk";
+"TXT_Buy_Success"   = "Aankoop succesvol afgerond";
+"TXT_Restored"       = "Aankoop succesvol hersteld";
+"CLImageEditor_Text"            = "Tekstinvoer";
+"CLImageEditor_DateLocation"    = "Datum en plaats van de snapshot";
+"TXT_Select_Info"               = "Gelieve te kiezen";
+"TXT_Support"                   = "Ondersteuning";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Snelheid";
+"TXT_MoreApps"                  = "Meer Apps";

@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "취소하기";
+"TXT_OK"            = "확인";
+"TXT_Select"        = "선택";
+"TXT_DEST"          = "업로드를의 대상을 선택합니다.";
+"TXT_LOADING"       = "로드 중 ...";
+"TXT_DBERROR"       = "오류로딩 폴더 내용";
+"TXT_NOFOLDERS"     = "어떤 폴더에 포함되어 있지 않습니다";
+"TXT_PhotoLibrary"  = "사진 라이브러리";
+"TXT_Camera"        = "카메라의";
+"TXT_Saved"         = "성공적으로 저장 한";
+"TXT_Buy"           = "사기";
+"TXT_Restore"       = "복원";
+"TXT_Buy_Info"      = "워터 마크없이 구입 PhotoXo 프로";
+"TXT_Buy_Success"   = "구매 성공적으로 완료";
+"TXT_Restored"       = "구매가 성공적으로 복원";
+"CLImageEditor_Text"            = "텍스트 입력";
+"CLImageEditor_DateLocation"    = "스냅 샷의 날짜 및 장소";
+"TXT_Select_Info"               = "선택하세요";
+"TXT_Support"                   = "지원";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ 율";
+"TXT_MoreApps"                  = "더 많은 앱";

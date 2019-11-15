@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Annuler";
+"TXT_OK"            = "D'accord";
+"TXT_Select"        = "Sélectionner";
+"TXT_DEST"          = "Choisissez une destination pour les téléchargements.";
+"TXT_LOADING"       = "Chargement...";
+"TXT_DBERROR"       = "Le contenu du dossier Erreur de chargement";
+"TXT_NOFOLDERS"     = "Ne contient pas de dossiers";
+"TXT_PhotoLibrary"  = "Photothèque";
+"TXT_Camera"        = "Appareil photo";
+"TXT_Saved"         = "Sauvegarde réussie";
+"TXT_Buy"           = "Acheter";
+"TXT_Restore"       = "Restaure";
+"TXT_Buy_Info"      = "Acheter PhotoXo Pro sans filigrane";
+"TXT_Buy_Success"   = "Achat est terminée avec succès";
+"TXT_Restored"       = "Votre achat a été restauré avec succès";
+"CLImageEditor_Text"            = "Saisie de Texte";
+"CLImageEditor_DateLocation"    = "Date et lieu de capture instantanée";
+"TXT_Select_Info"               = "S'il vous plaît choisir";
+"TXT_Support"                   = "Soutien";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ taux";
+"TXT_MoreApps"                  = "Plus d'applications";

@@ -1,0 +1,23 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Cancel";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Select";
+"TXT_DEST"          = "Choose a destination for uploads.";
+"TXT_LOADING"       = "Loading...";
+"TXT_DBERROR"       = "Error loading folder contents";
+"TXT_NOFOLDERS"     = "Contains no folders";
+"TXT_PhotoLibrary"  = "Photo Library";
+"TXT_Camera"        = "Camera";
+"TXT_Saved"         = "Saved successfully";
+"TXT_Buy"           = "Buy / Restore Pro Version";
+"TXT_Buy_Info"      = "Buy PhotoXo Pro without watermark";
+"TXT_Buy_Success"   = "Purchase is completed successfully";
+"TXT_Restored"       = "Purchase is restored successfully";
+//"TXT_CopyNote"      = "Here a picture from me ... edited with PhotoXo the image editor for iPhone and iPad - http://www.appzer.de/PhotoXo_en.html";

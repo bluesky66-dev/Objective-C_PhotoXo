@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "İptal";
+"TXT_OK"            = "Tamam";
+"TXT_Select"        = "Seçin";
+"TXT_DEST"          = "Yüklenenler için bir hedef seçin.";
+"TXT_LOADING"       = "Yükleniyor...";
+"TXT_DBERROR"       = "Yüklemesinde hata klasör içeriğini";
+"TXT_NOFOLDERS"     = "Hiçbir klasörler bulunur";
+"TXT_PhotoLibrary"  = "Fotoğraf Arşivi";
+"TXT_Camera"        = "Kamerası";
+"TXT_Saved"         = "Başarıyla kaydedildi";
+"TXT_Buy"           = "Satın almak";
+"TXT_Restore"       = "Geri";
+"TXT_Buy_Info"      = "Satın almak PhotoXo Pro filigran olmadan";
+"TXT_Buy_Success"   = "Alım başarıyla tamamlandı";
+"TXT_Restored"       = "Alım başarıyla geri yüklenen";
+"CLImageEditor_Text"            = "Metin girişi";
+"CLImageEditor_DateLocation"    = "Anlık görüntü Yeri ve Tarihi";
+"TXT_Select_Info"               = "Lütfen seçiniz";
+"TXT_Support"                   = "Yardım";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Puan";
+"TXT_MoreApps"                  = "Daha fazlası";

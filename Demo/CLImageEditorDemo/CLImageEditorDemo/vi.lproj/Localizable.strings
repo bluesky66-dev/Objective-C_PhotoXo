@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "hủy bỏ";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "lựa chọn";
+"TXT_DEST"          = "Chọn một điểm đến cho upload.";
+"TXT_LOADING"       = "Loading...";
+"TXT_DBERROR"       = "Nội dung thư mục Error loading";
+"TXT_NOFOLDERS"     = "Không chứa các thư mục";
+"TXT_PhotoLibrary"  = "thư viện ảnh";
+"TXT_Camera"        = "Máy chụp hình";
+"TXT_Saved"         = "Đã lưu thành công";
+"TXT_Buy"           = "Mua";
+"TXT_Restore"       = "Khôi phục";
+"TXT_Buy_Info"      = "Mua PhotoXo Pro mà không có watermark";
+"TXT_Buy_Success"   = "Mua hoàn thiện thành công";
+"TXT_Restored"       = "Mua khôi phục thành công";
+"CLImageEditor_Text"            = "Văn bản đầu vào";
+"CLImageEditor_DateLocation"    = "Ngày và Nơi hình ảnh";
+"TXT_Select_Info"               = "Vui lòng chọn";
+"TXT_Support"                   = "ủng hộ";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ tốc độ";
+"TXT_MoreApps"                  = "nhiều ứng dụng";

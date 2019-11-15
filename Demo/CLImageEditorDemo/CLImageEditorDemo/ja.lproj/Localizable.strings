@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "キャンセル";
+"TXT_OK"            = "はい";
+"TXT_Select"        = "選択";
+"TXT_DEST"          = "アップロードの保存先を選択してください。";
+"TXT_LOADING"       = "読み込んでいます";
+"TXT_DBERROR"       = "の読み込みエラーのフォルダの内容";
+"TXT_NOFOLDERS"     = "何のフォルダが含まれていません";
+"TXT_PhotoLibrary"  = "フォトライブラリ";
+"TXT_Camera"        = "カメラ";
+"TXT_Saved"         = "正常に保存";
+"TXT_Buy"           = "買います";
+"TXT_Restore"       = "リストア";
+"TXT_Buy_Info"      = "ウォーターマークせず購入PhotoXoプロ";
+"TXT_Buy_Success"   = "購入首尾よく完了しました";
+"TXT_Restored"       = "購入は首尾よく復元された";
+"CLImageEditor_Text"            = "テキスト入力";
+"CLImageEditor_DateLocation"    = "スナップショットの日付とプレース";
+"TXT_Select_Info"               = "選択してください。";
+"TXT_Support"                   = "サポート";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ 割合";
+"TXT_MoreApps"                  = "その他のアプリケーション";

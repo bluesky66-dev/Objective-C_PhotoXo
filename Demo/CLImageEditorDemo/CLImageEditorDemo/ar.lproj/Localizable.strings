@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "إلغاء";
+"TXT_OK"            = "حسنا";
+"TXT_Select"        = "اختار";
+"TXT_DEST"          = "اختيار وجهة للتحميل.";
+"TXT_LOADING"       = "جار التحميل...";
+"TXT_DBERROR"       = "محتويات مجلد خطأ في تحميل";
+"TXT_NOFOLDERS"     = "ا يحتوي المجلدات";
+"TXT_PhotoLibrary"  = "مكتبة الصور";
+"TXT_Camera"        = "الة تصوير";
+"TXT_Saved"         = "حفظ بنجاح";
+"TXT_Buy"           = "شراء";
+"TXT_Restore"       = "استعادة";
+"TXT_Buy_Info"      = "شراء PhotoXo برو بدون علامة مائية";
+"TXT_Buy_Success"   = "اكتمال الشراء بنجاح";
+"TXT_Restored"       = "شراء استعادة بنجاح";
+"CLImageEditor_Text"            = "إدخال النص";
+"CLImageEditor_DateLocation"    = "تاريخ ومكان اللقطة";
+"TXT_Select_Info"               = "الرجاء اختيار";
+"TXT_Support"                   = "دعم";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ معدل";
+"TXT_MoreApps"                  = "مزيد من التطبيقات";

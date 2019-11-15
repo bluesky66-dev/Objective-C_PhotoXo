@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2014 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Mégsem";
+"TXT_OK"            = "Oké";
+"TXT_Select"        = "Válassza ki";
+"TXT_DEST"          = "Válasszon egy helyet a feltöltések.";
+"TXT_LOADING"       = "Terhelés...";
+"TXT_DBERROR"       = "Nem sikerült betölteni a mappa tartalma";
+"TXT_NOFOLDERS"     = "Nem tartalmaz mappák";
+"TXT_PhotoLibrary"  = "Fotó könyvtár";
+"TXT_Camera"        = "Kamera";
+"TXT_Saved"         = "Sikeresen mentve";
+"TXT_Buy"           = "Vásárolja";
+"TXT_Restore"       = "Visszaad";
+"TXT_Buy_Info"      = "Vásárlás PhotoXo Pro vízjel nélkül";
+"TXT_Buy_Success"   = "Vásárlás lezárását sikeresen";
+"TXT_Restored"       = "Vásárlási helyreáll sikeresen";
+"CLImageEditor_Text"            = "Szöveges beviteli";
+"CLImageEditor_DateLocation"    = "Dátum és hely a pillanatkép";
+"TXT_Select_Info"               = "Kérjük válasszon";
+"TXT_Support"                   = "Támogatás";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Szavazz";
+"TXT_MoreApps"                  = "Több alkalmazás";

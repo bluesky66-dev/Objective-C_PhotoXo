@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Zrušit";
+"TXT_OK"            = "Dobře";
+"TXT_Select"        = "Vybrat";
+"TXT_DEST"          = "Vyberte cílonahrávánívé umístění pro.";
+"TXT_LOADING"       = "Loading...";
+"TXT_DBERROR"       = "Chyba při načítání obsah složky";
+"TXT_NOFOLDERS"     = "Neobsahuje žádné složky";
+"TXT_PhotoLibrary"  = "knihovna fotky";
+"TXT_Camera"        = "Fotoaparát";
+"TXT_Saved"         = "úspěšně uložen";
+"TXT_Buy"           = "Koupit";
+"TXT_Restore"       = "Obnovit";
+"TXT_Buy_Info"      = "Koupit PhotoXo Pro bez vodoznaku";
+"TXT_Buy_Success"   = "Nákup úspěšně dokončena";
+"TXT_Restored"       = "Nákup úspěšně obnoven";
+"CLImageEditor_Text"            = "Zadávání textu";
+"CLImageEditor_DateLocation"    = "Datum a Místo snímku";
+"TXT_Select_Info"               = "Prosím, vyberte";
+"TXT_Support"                   = "Podpěra";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Sazba";
+"TXT_MoreApps"                  = "Více Aplikace";

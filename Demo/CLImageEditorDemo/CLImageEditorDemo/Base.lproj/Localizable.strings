@@ -1,0 +1,30 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"                    = "Cancel";
+"TXT_OK"                        = "OK";
+"TXT_Select"                    = "Select";
+"TXT_DEST"                      = "Choose a destination for uploads.";
+"TXT_LOADING"                   = "Loading...";
+"TXT_DBERROR"                   = "Error loading folder contents";
+"TXT_NOFOLDERS"                 = "Contains no folders";
+"TXT_PhotoLibrary"              = "Photo Library";
+"TXT_Camera"                    = "Camera";
+"TXT_Saved"                     = "Saved successfully";
+"TXT_Buy"                       = "Buy";
+"TXT_Restore"                   = "Restore";
+"TXT_Buy_Info"                  = "Buy PhotoXo Pro without watermark";
+"TXT_Buy_Success"               = "Purchase completed succesfully";
+"TXT_Restored"                  = "Purchase restored succesfully";
+"CLImageEditor_Text"            = "Text input";
+"CLImageEditor_DateLocation"    = "Date & Location of shnapshot";
+"TXT_Select_Info"               = "Please choose";
+"TXT_Support"                   = "Support";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Rate";
+"TXT_MoreApps"                  = "More Apps";
+

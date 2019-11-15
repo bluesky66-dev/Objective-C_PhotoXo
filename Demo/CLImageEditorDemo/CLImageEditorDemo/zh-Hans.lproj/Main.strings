@@ -1,0 +1,18 @@
+
+/* Class = "UITabBarItem"; title = "Edit"; ObjectID = "J0F-q1-dck"; */
+"J0F-q1-dck.title" = "编辑";
+
+/* Class = "UITabBarItem"; title = "Photos"; ObjectID = "TFK-MD-4i6"; */
+"TFK-MD-4i6.title" = "照片";
+
+/* Class = "UITabBarItem"; title = "Share"; ObjectID = "Tj3-jb-mWS"; */
+"Tj3-jb-mWS.title" = "分享";
+
+/* Class = "IBUITabBarItem"; title = "Pro"; ObjectID = "gzY-1g-G9Z"; */
+"gzY-1g-G9Z.title" = "专业版";
+
+/* Class = "UIViewController"; title = "Start"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "开始";
+
+/* Class = "IBUIViewController"; title = "Info"; ObjectID = "CB0-lu-14t"; */
+"gzY-1g-G9Z.title" = "信息";

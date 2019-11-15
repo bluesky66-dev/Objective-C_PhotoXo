@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Otkazati";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Odaberite";
+"TXT_DEST"          = "Odaberite odrediöte za prijenos.";
+"TXT_LOADING"       = "Učitavanje ....";
+"TXT_DBERROR"       = "Pogreška pri učitavanju sadržaj mape";
+"TXT_NOFOLDERS"     = "Ne sadrži mape";
+"TXT_PhotoLibrary"  = "Foto knjižnica";
+"TXT_Camera"        = "Fotoaparat";
+"TXT_Saved"         = "Uspješno spremljen";
+"TXT_Buy"           = "Kupi / Restore Pro verzija";
+"TXT_Restore"       = "Restore";
+"TXT_Buy_Info"      = "Kupi PhotoXo Pro ne vodenog uiga";
+"TXT_Buy_Success"   = "Kupnja je završen uspješno";
+"TXT_Restored"       = "Kupnja je obnovljena uspješno";
+"CLImageEditor_Text"            = "Unos teksta";
+"CLImageEditor_DateLocation"    = "Datum i mjesto na snimku";
+"TXT_Select_Info"               = "Molimo izaberite";
+"TXT_Support"                   = "Podrška";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Ocijenite";
+"TXT_MoreApps"                  = "Više aplikacija";

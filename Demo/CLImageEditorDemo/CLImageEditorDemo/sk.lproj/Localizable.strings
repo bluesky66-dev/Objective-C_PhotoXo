@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ PhotoXo Base
+ 
+ Created by Kevin on 11.05.15.
+ Copyright (c) 2015 Appzer.de All rights reserved.
+ */
+
+"TXT_Cancel"        = "Zrušiť";
+"TXT_OK"            = "OK";
+"TXT_Select"        = "Vybrať";
+"TXT_DEST"          = "Vyberte cieľové umiestnenie pre nahrávanie.";
+"TXT_LOADING"       = "Loading...";
+"TXT_DBERROR"       = "Chyba pri načítaní obsah priečinka";
+"TXT_NOFOLDERS"     = "Neobsahuje žiadne zložky";
+"TXT_PhotoLibrary"  = "Foto knižnice";
+"TXT_Camera"        = "Fotoaparát";
+"TXT_Saved"         = "Úspešne uložené";
+"TXT_Buy"           = "Kúpiť";
+"TXT_Restore"       = "Obnovit";
+"TXT_Buy_Info"      = "Kúpiť PhotoXo plnej výške bez vodoznaku";
+"TXT_Buy_Success"   = "Nákup dokončená úspešne";
+"TXT_Restored"       = "Nákup obnovený úspešne";
+"CLImageEditor_Text"            = "Textový";
+"CLImageEditor_DateLocation"    = "Dátum a Miesto obrázka";
+"TXT_Select_Info"               = "Prosím, vyberte";
+"TXT_Support"                   = "Podpera";
+"TXT_Rate"                      = "⭐️⭐️⭐️⭐️⭐️ Sadzba";
+"TXT_MoreApps"                  = "Viac Aplikácia";
